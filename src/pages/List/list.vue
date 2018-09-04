@@ -1,5 +1,5 @@
 <template>
-<div>list</div>
+<div class="home">list</div>
 </template>
 
 <script>
@@ -9,5 +9,7 @@ export default{
 </script>
 
 <style>
-
+.home{
+	font-size: 50px;
+}
 </style>
